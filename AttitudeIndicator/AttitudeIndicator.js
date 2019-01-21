@@ -219,10 +219,10 @@ var AttitudeIndicator = function (_Component) {
 	}, {
 		key: 'componentWillReceiveProps',
 		value: function componentWillReceiveProps(nextProps) {
-			this.setRoll(nextProps.roll);
-			this.setPitch(nextProps.pitch);
-			this.setSpeed(nextProps.speed);
-			this.setAltitude(nextProps.altitude);
+			this.setRoll(nextProps.roll || 0);
+			this.setPitch(nextProps.pitch || 0);
+			this.setSpeed(nextProps.speed) || 0;
+			this.setAltitude(nextProps.altitude || 0);
 		}
 	}, {
 		key: 'render',
