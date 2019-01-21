@@ -1,0 +1,75 @@
+<svg width="600" height="800" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<!-- 30 -->
+		<line id="svg_3" stroke="#ffffff" y2="160" x2="375" y1="160" x1="225" stroke-width="5" fill="none"/>
+		<!-- 27.5 -->
+		<line id="svg_2" stroke="#ffffff" y2="180" x2="350" y1="180" x1="250" stroke-width="5" fill="none"/>
+		<!-- 25 -->
+		<line id="svg_1" stroke="#ffffff" y2="200" x2="325" y1="200" x1="275" stroke-width="5" fill="none"/>
+		<!-- 22.5 -->
+		<line id="svg_2" stroke="#ffffff" y2="220" x2="350" y1="220" x1="250" stroke-width="5" fill="none"/>
+		<!-- 20 -->
+		<line id="svg_3" stroke="#ffffff" y2="240" x2="375" y1="240" x1="225" stroke-width="5" fill="none"/>
+		<!-- 17.5 -->
+		<line id="svg_2" stroke="#ffffff" y2="260" x2="325" y1="260" x1="275" stroke-width="5" fill="none"/>
+		<!-- 15 -->
+		<line id="svg_1" stroke="#ffffff" y2="280" x2="350" y1="280" x1="250" stroke-width="5" fill="none"/>
+		<!-- 12.5 -->
+		<line id="svg_2" stroke="#ffffff" y2="300" x2="325" y1="300" x1="275" stroke-width="5" fill="none"/>
+		<!-- 10 -->
+		<line id="svg_3" stroke="#ffffff" y2="320" x2="375" y1="320" x1="225" stroke-width="5" fill="none"/>
+		<!-- 7.5 -->
+		<line id="svg_4" stroke="#ffffff" y2="340" x2="325" y1="340" x1="275" stroke-width="5" fill="none"/>
+		<!-- 5 -->
+		<line id="svg_5" stroke="#ffffff" y2="360" x2="350" y1="360" x1="250" stroke-width="5" fill="none"/>
+		<!-- 2.5 -->
+		<line id="svg_6" stroke="#ffffff" y2="380" x2="325" y1="380" x1="275" stroke-width="5" fill="none"/>
+
+		<!-- 2.5 -->
+		<line id="svg_7" stroke="#ffffff" y2="420" x2="325" y1="420" x1="275" stroke-width="5" fill="none"/>
+		<!-- 5 -->
+		<line id="svg_8" stroke="#ffffff" y2="440" x2="350" y1="440" x1="250" stroke-width="5" fill="none"/>
+		<!-- 7.5 -->
+		<line id="svg_9" stroke="#ffffff" y2="460" x2="325" y1="460" x1="275" stroke-width="5" fill="none"/>
+		<!-- 10 -->
+		<line id="svg_10" stroke="#ffffff" y2="480" x2="375" y1="480" x1="225" stroke-width="5" fill="none"/>
+		<!-- 12.5 -->
+		<line id="svg_11" stroke="#ffffff" y2="500" x2="325" y1="500" x1="275" stroke-width="5" fill="none"/>
+		<!-- 15 -->
+		<line id="svg_12" stroke="#ffffff" y2="520" x2="350" y1="520" x1="250" stroke-width="5" fill="none"/>
+		<!-- 17.5 -->
+		<line id="svg_11" stroke="#ffffff" y2="540" x2="325" y1="540" x1="275" stroke-width="5" fill="none"/>
+		<!-- 20 -->
+		<line id="svg_10" stroke="#ffffff" y2="560" x2="375" y1="560" x1="225" stroke-width="5" fill="none"/>
+		<!-- 22.5 -->
+		<line id="svg_11" stroke="#ffffff" y2="580" x2="325" y1="580" x1="275" stroke-width="5" fill="none"/>
+		<!-- 25 -->
+		<line id="svg_12" stroke="#ffffff" y2="600" x2="350" y1="600" x1="250" stroke-width="5" fill="none"/>
+		<!-- 27.5 -->
+		<line id="svg_11" stroke="#ffffff" y2="620" x2="325" y1="620" x1="275" stroke-width="5" fill="none"/>
+		<!-- 30 -->
+		<line id="svg_10" stroke="#ffffff" y2="640" x2="375" y1="640" x1="225" stroke-width="5" fill="none"/>
+	</g>
+
+	<g>
+		<!-- label 10 -->
+		<text x="205" y="327.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">10</text>
+		<text x="395" y="327.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">10</text>
+		<text x="205" y="487.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">10</text>
+		<text x="395" y="487.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">10</text>
+
+		<!-- label 20 -->
+		<text x="205" y="247.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">20</text>
+		<text x="395" y="247.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">20</text>
+		<text x="205" y="567.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">20</text>
+		<text x="395" y="567.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">20</text>
+
+		<!-- label 30 -->
+		<text x="205" y="167.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">30</text>
+		<text x="395" y="167.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">30</text>
+		<text x="205" y="647.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">30</text>
+		<text x="395" y="647.5" stroke="#ffffff" fill="#ffffff" font-family="arial" font-size="24" text-anchor="middle">30</text>
+	</g>
+</svg>

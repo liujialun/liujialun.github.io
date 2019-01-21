@@ -1,0 +1,17 @@
+div.indicator {
+	width: 250px;
+	height: 250px;
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+}
+
+/* The box containing any element of an indicator */
+
+div.indicator .box {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
