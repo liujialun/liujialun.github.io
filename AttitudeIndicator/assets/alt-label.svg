@@ -1,9 +1,0 @@
-<svg width="600" height="4400" 
-	xmlns="http://www.w3.org/2000/svg" 
-	xmlns:svg="http://www.w3.org/2000/svg">
-	<g>
-		<line x1="500" y1="180" x2="515" y2="180" stroke-width="2" stroke="#ffffff" fill="none" />
-		<text x="520" y="187.5" fill="#ffffff" font-family="arial" font-size="24" text-anchor="left">1</text>
-		<text x="550" y="187.5" fill="#ffffff" font-family="arial" font-size="14" text-anchor="left">000</text>
-	</g>
-</svg>
